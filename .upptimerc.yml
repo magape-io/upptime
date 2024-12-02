@@ -17,6 +17,14 @@ sites:
     url: https://rpc.buildbear.io/full-elektra-e79169fa/
   - name: Sepolia Testnet Node
     url: https://sepolia-api.magape.io/
+  - name: Host Server
+    url: https://jumper.magape.io
+  - name: Contabo Server 1
+    url: http://c1.magape.io/
+  - name: Contabo Server 2
+    url: http://c2.magape.io/
+  - name: Contabo Server 3
+    url: http://api.magape.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
