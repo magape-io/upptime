@@ -58,36 +58,40 @@
     "url": "https://mainnet-api.magape.io/",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet-api.magape.io.ico",
     "slug": "bsc-mainnet-node",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 763,
     "timeDay": 843,
     "timeWeek": 763,
     "timeMonth": 763,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 1
+    }
   },
   {
     "name": "BSC Testnet Node",
     "url": "https://testnet-api.magape.io/",
     "icon": "https://icons.duckduckgo.com/ip3/testnet-api.magape.io.ico",
     "slug": "bsc-testnet-node",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 775,
     "timeDay": 672,
     "timeWeek": 775,
     "timeMonth": 775,
     "timeYear": 775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 1
+    }
   },
   {
     "name": "Dev Testnet Node 1",
@@ -130,36 +134,40 @@
     "url": "https://sepolia-api.magape.io/",
     "icon": "https://icons.duckduckgo.com/ip3/sepolia-api.magape.io.ico",
     "slug": "sepolia-testnet-node",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 709,
     "timeDay": 678,
     "timeWeek": 709,
     "timeMonth": 709,
     "timeYear": 709,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   },
   {
     "name": "Host Server",
     "url": "https://jumper.magape.io",
     "icon": "https://icons.duckduckgo.com/ip3/jumper.magape.io.ico",
     "slug": "host-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 857,
-    "timeDay": 959,
-    "timeWeek": 857,
-    "timeMonth": 857,
-    "timeYear": 857,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1410,
+    "timeDay": 2015,
+    "timeWeek": 1410,
+    "timeMonth": 1410,
+    "timeYear": 1410,
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   },
   {
     "name": "Contabo Server 1",
@@ -167,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/c1.magape.io.ico",
     "slug": "contabo-server-1",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "71.90%",
+    "uptimeDay": "59.04%",
+    "uptimeWeek": "71.90%",
+    "uptimeMonth": "71.90%",
+    "uptimeYear": "71.90%",
     "time": 458,
     "timeDay": 453,
     "timeWeek": 458,
     "timeMonth": 458,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2024-12-03": 0
+      "2024-12-03": 590
     }
   },
   {
