@@ -13,10 +13,6 @@ sites:
     url: https://mainnet-api.magape.io/
   - name: BSC Testnet Node
     url: https://testnet-api.magape.io/
-  - name: Dev Testnet Node 1
-    url: https://rpc.buildbear.io/full-elektra-e79169fa/
-  - name: Dev Testnet Node 2
-    url: https://rpc.buildbear.io/miniature-husk-93484ab0/
   - name: Sepolia Testnet Node
     url: https://sepolia-api.magape.io/
   - name: Host Server
