@@ -1,7 +1,7 @@
 url: https://testnet-api.magape.io/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-24T05:55:24.133Z
+status: up
+code: 200
+responseTime: 661
+lastUpdated: 2025-02-24T06:25:03.149Z
 startTime: 2024-12-02T06:15:45.001Z
 generator: Upptime <https://github.com/upptime/upptime>
